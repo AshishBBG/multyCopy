@@ -2,11 +2,11 @@
 
 ## Like below it is shown in image 
 
-![](screen.PNG)
+![](https://i.postimg.cc/Xvs2cvkD/screen.png)
 
 > My project is similar to this but little modification 
 
-It will copy the text when we selet the text and press numeric value
+It will copy the text when we select the text and press numeric value
 1. When we press 1 and select any word it will copy in clip1, and when we press 2 and select word then it will copy in clip2 and so on
 
 2. For pasting when we press ctrl+1 then clip1 is pasted
